@@ -12,9 +12,9 @@ redirect_from:
 
 I'm a Master's Student at the University of Utah living in Salt Lake City, Utah. My interests lie in the fields of Cloud Computing, Distributed Systems and Algorithmic Problem Solving. I will be graduating by May 2018 and in search of pursuing a professional career in my areas of interest.
 
-I'm currently working as a Research Assistant under [Robert Ricci](http://www.flux.utah.edu/users/ricci/) in the Flux lab at UoU analyzing the University Network data for my thesis. I gained my professional experienece in the visual analytics domain through my internship at the Pacific Northwest National Lab (PNNL), Washington during the summer of 2017.
+I'm currently working as a Research Assistant under [Robert Ricci](http://www.flux.utah.edu/users/ricci/) in the [Flux lab](https://www.flux.utah.edu/) at UoU analyzing the University Network data for my thesis.
 
-Prior to taking up my graduate studies, I worked as a Software Engineer for two years at TEKsystems back in the country where I'm from, India.
+Prior to my masters at U, I worked as a Software Engineer for two years at J.P.Morgan Chase. My experience here comprises of Web Development in Java and Python.
 
 Getting started
 ======
