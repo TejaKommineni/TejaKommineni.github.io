@@ -10,9 +10,8 @@ redirect_from:
 
 
 
-A data-driven personal website
 ======
-I'm a Master's Student at the University of Utah(UoU) living in Salt Lake City, Utah. My interest lies in the fields of Visual Analytics and Web application development. I expect to graduate by the end of Spring 2018 and would be glad to take up a professional career path in one of the fields I'm interested in.
+I'm a Master's Student at the University of Utah living in Salt Lake City, Utah. My interests lie in the fields of Cloud Computing, Distributed Systems and Algorithmic Problem Solving. I will be graduating by May 2018 and in search of pursuing a professional career in my areas of interest.
 
 I'm currently working with Dr. Alexander Lex in the Visualization design lab at UoU on visualizing biological data. I gained my professional experienece in the visual analytics domain through my internship at the Pacific Northwest National Lab (PNNL), Washington during the summer of 2017.
 
