@@ -26,7 +26,3 @@ Research Expereince
 
 [Research Assistant](https://tejakommineni.github.io/) - As a Research Assistant at U, I work at Flux lab in the areas of Networking and Systems trying to ease the way systems and networks are managed in an enterprise setting.(August 2016 - Present)
 
-
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
