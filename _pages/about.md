@@ -19,11 +19,12 @@ Prior to my masters at U, I worked as a Software Engineer for two years at J.P.M
 Professional Experience
 ------
 
-[Software Engineer](https://tejakommineni.github.io/) - 
+[Software Engineer](https://tejakommineni.github.io/) - I worked as a Software Engineer at J.P.Morgan Chase for two years developing a web application (June 2014 - July 2016)
 
 Research Expereince
 ------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, (https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+
+[Research Assistant](https://tejakommineni.github.io/) - As a Research Assistant at U, I work at Flux lab in the areas of Networking and Systems trying to ease the way systems and networks are managed in an enterprise setting.(August 2016 - Present)
 
 **Markdown generator**
 
@@ -36,7 +37,3 @@ Many people use a git client to create files on their local computer and then pu
 
 Example: editing a markdown file for a talk
 ![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
